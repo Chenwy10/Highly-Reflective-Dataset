@@ -6,5 +6,5 @@ It can be downloaded from:
 
 ### Contact information
 Please feel free to contact us with any questions, suggestions or comments:
--Wenyuan Chen
--chenwy.chen@mail.utoronto.ca
+- Wenyuan Chen
+- chenwy.chen@mail.utoronto.ca
